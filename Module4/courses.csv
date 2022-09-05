@@ -1,0 +1,21 @@
+﻿courses_id,title,description ,programming_language
+1,CMP 101,Design ,Fireworks
+2,CMP 102,Beginners,HTML_CSS
+3,CMP 103,Advanced ,Javascript
+4,CMP 104,Design ,Vuejs
+5,CMP 105,Beginners,Angular
+6,CMP 106,Advanced ,Python 
+7,CMP 107,Design ,C#
+8,CMP 108,Beginners,C++
+9,CMP 109,Advanced ,Fireworks
+10,CMP 110,Design ,HTML_CSS
+11,CMP 111,Beginners,Javascript
+12,CMP 112,Advanced ,Vuejs
+13,CMP 113,Design ,Angular
+14,CMP 114,Beginners,Python 
+15,CMP 115,Advanced ,C#
+16,CMP 116,Design ,C++
+17,CMP 117,Beginners,Angular
+18,CMP 118,Advanced ,Python 
+19,CMP 119,Final,C#
+20,CMP 120,Finals,C++
